@@ -1,9 +1,7 @@
 # Instructions for Info Assist Deployment
 This file documents the steps needed to deploy an instance of Information Assistant to Azure.
 
-It is easiest to deploy from a devcontainer. Open the repository using VSCode, hit CTRL+Shift+P 
-to open the command palette then select `Reopen in container`. This will build a containerised 
-development environment and mount the repo into it.
+It is easiest to deploy from a devcontainer. Open the repository using VSCode, hit CTRL+Shift+P to open the command palette then select `Reopen in container`. This will build a containerised development environment and mount the repo into it.
 
 Log into Azure and select the subscription you will be deploying into. 
 ```bash
